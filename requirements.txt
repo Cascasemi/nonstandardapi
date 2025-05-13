@@ -1,0 +1,12 @@
+fastapi>=0.100.0
+uvicorn>=0.22.0
+python-multipart>=0.0.6
+librosa>=0.10.0
+torch>=2.0.0
+transformers>=4.30.0
+numpy>=1.24.0
+soundfile>=0.12.1
+pydantic>=2.0.0
+scipy>=1.10.0
+tqdm>=4.65.0
+gdown>=4.7.1  # Add this for Google Drive downloads
